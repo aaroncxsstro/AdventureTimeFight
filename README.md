@@ -3,26 +3,19 @@
 <br />
 <div align="center">
   <a href="https://github.com/aaroncxsstro/AdventureTimeFight">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/Logo.png" alt="Logo" width="500" height="500">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">ADVENTURE TIME FIGHT</h3>
 
   <p align="center">
-    project_description
+AdventureTimeFight is a small showcase of JavaFX interface development skills. Immerse yourself in a simple yet engaging gaming experience that highlights proficiency in crafting user interfaces using JavaFX. Explore the world of AdventureTimeFight and witness the seamless integration of JavaFX elements, demonstrating a glimpse of the developer's expertise in creating interactive and visually appealing applications.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
